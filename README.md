@@ -142,6 +142,7 @@ and resources.
 * [/r/freesoftware][323] - A general free-software-focused community.
 * [/r/godot][185] - A community for discussion and support in development with
   the Godot game engine.
+* [Godot at Discord][413] - The Godot Discord Channel, happy programming
 * [FreeGameDev Forums][326] - A forum community for all things free-game-development-related.
 * [FreeGaming][324] - A [freepo.st][325] community dedicated to free gaming.
 * [Libregamewiki][327] - The free gaming encyclopedia.
@@ -703,6 +704,7 @@ an engine would.
   platforms. Implemented in Python. [Expat][11].
 * [Kuko][348] - A cross-platform development library, designed for mobile
   devices. Implemented in C++ and Lua. [Expat][11].
+* [libclub][398] - Lightweight Peer-to-Peer networking engine for real time applications. [Apache 2.0][71]
 * [libGDX][86] - Cross-platform game development framework. Implemented in
   Java. [Apache 2.0][71].
 * [libRocket][270] - An HTML/CSS-based UI library. Implemented in
@@ -717,6 +719,7 @@ an engine would.
   .
 * [MINX][92] - MINX Is Not XNA; a framework resembling XNA. Implemented in
   C++. [3-clause BSD][29].
+* [nanovg][399] - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. [zlib][45].
 * [p2.js][111] - 2D physics library. Implemented in ECMAScript. [Expat][11].
 * [pixi.js][275] - A 2D rendering engine. Implemented in
   ECMAScript. [Expat][11].
@@ -739,6 +742,7 @@ an engine would.
   easier. Implemented in Java. [3-clause BSD][29].
 * [Three.js][69] - A library that makes WebGL easy to use. Implemented in
   ECMAScript. [Expat][11].
+* [Tilengine][397] is a 2D graphics engine for creating classic/retro games with tilemaps, sprites and palettes. Its scanline-based rendering system makes raster effects a core feature. [MIT][403]
 * [voxel.js][67] - A multi-component framework for bulding voxel games for
   modern browsers. Implemented in ECMAScript. [3-clause BSD][29].
 * [ZenGL][393] - A cross-platform game development library designed to provide
@@ -1165,6 +1169,9 @@ This is a catch-all category for things that don't fit anywhere else.
 [394]: http://www.zengl.org/license.html
 [395]: http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
 [396]: http://google.github.io/liquidfun/
+[397]: http://www.tilengine.org/
+[398]: https://github.com/inetic/libclub
+[399]: https://github.com/memononen/nanovg
 [400]: https://github.com/ocornut/imgui
 [401]: http://www.glfw.org/
 [402]: https://github.com/CedricGuillemet/ImGuizmo
@@ -1173,3 +1180,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [406]: http://www.fatcow.com/free-icons
 [411]: https://github.com/nicodinh/kenney-icon-font/
 [412]: https://github.com/juliettef/IconFontCppHeaders
+[413]: https://discordapp.com/invite/zH7NUgz
