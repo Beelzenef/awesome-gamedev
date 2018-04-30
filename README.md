@@ -97,6 +97,7 @@ This contains collections of miscellaneous assets of different kinds.
 
 ### Music ###
 
+* [AudioJungle][418] - Royalty free music and audio tracks
 * [CC0 Music][385] - A collection of music. [CC0][289].
 * [ccMixter][304] - A site for collaborating with musicians. Various licenses,
   all CC.
@@ -140,8 +141,12 @@ and resources.
 * [/r/FreeGaming][94] - Part of the Free Culture Reddit Community. Designed
   specifically for discussion of free culture games.
 * [/r/freesoftware][323] - A general free-software-focused community.
+* [/r/gamedev][414] - General game development community in reddit.
 * [/r/godot][185] - A community for discussion and support in development with
   the Godot game engine.
+* [/r/pygame/][417] - pyGame, game development in Python, community in reddit.
+* [/r/Unity3D][415] - Unity3D community in reddit.
+* [/r/Unity2D][416] - Unity community in reddit, for 2D specific questions.
 * [Godot at Discord][413] - The Godot Discord Channel, happy programming
 * [FreeGameDev Forums][326] - A forum community for all things free-game-development-related.
 * [FreeGaming][324] - A [freepo.st][325] community dedicated to free gaming.
@@ -1181,3 +1186,8 @@ This is a catch-all category for things that don't fit anywhere else.
 [411]: https://github.com/nicodinh/kenney-icon-font/
 [412]: https://github.com/juliettef/IconFontCppHeaders
 [413]: https://discordapp.com/invite/zH7NUgz
+[414]: https://www.reddit.com/r/gamedev
+[415]: https://www.reddit.com/r/Unity3D
+[416]: https://www.reddit.com/r/Unity2D
+[417]: https://www.reddit.com/r/pygame/
+[418]: https://audiojungle.net/category/music
